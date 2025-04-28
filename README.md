@@ -28,12 +28,26 @@ O **CryptoPrice Dashboard** foi criado para:
 
 ## ⚙️ Funcionalidades Principais
 
-- 🔄 **Atualizar Dados**: Coleta os dados mais recentes das criptomoedas.
-- 🏠 **Visão Geral**: Mostra a moeda que mais subiu, mais caiu e a média de variação.
-- 📈 **Gráficos Dinâmicos**: Visualize rapidamente variações, market cap e volume.
-- 📑 **Tabela Detalhada**: Dados organizados e filtrados das 10 maiores moedas.
-- ⏳ **Mensagens de Feedback**: Atualizações e erros tratados com animações elegantes.
-- 🧹 **Gerenciamento de Arquivos**: Mantém apenas os 5 arquivos CSV mais recentes no projeto.
+- 🔄 **Atualizar Dados**: Dados reais das criptos com botão de atualização automática.
+- 🏠 **Visão Geral**: Mostra moeda que mais subiu, mais caiu e a média de variação.
+- 📈 **Gráficos Interativos**:
+  - Filtrar moedas.
+  - Escolher métrica (Preço Atual, Variação 24h, Quantidade Circulante).
+  - Ordenar: **Misto**, **Crescente**, **Decrescente**.
+  - Barras com **cores dinâmicas** (verde positivo, vermelho negativo).
+  - Escala automática para melhor visualização.
+- 📑 **Tabela Detalhada**:
+  - Visualizar todas as métricas principais.
+  - Alternar entre **modo formatado** e **modo bruto**.
+  - Baixar em **CSV** ou **Excel**.
+- ⭐ **Favoritar Moedas**:
+  - Marcar e desmarcar favoritas.
+  - Filtrar rapidamente apenas suas favoritas.
+  - Salvo no navegador do usuário (sem backend!).
+- ⏳ **Mensagens Suaves**:
+  - Animações de feedback no carregamento e atualização de dados.
+- 📅 **Última Atualização**:
+  - Data e hora da última coleta de dados, exibida no menu lateral.
 
 ---
 

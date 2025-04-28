@@ -1,2 +1,2 @@
-best_coin,best_change,worst_coin,worst_change,average_change
-XRP,2.68717,Ethereum,-3.69703,-1.306164
+best_coin,best_change,worst_coin,worst_change,average_change,top1_coin,top1_change,top2_coin,top2_change,top3_coin,top3_change,coins_up,coins_down,ultima_atualizacao
+XRP,5.17308,TRON,-2.45764,0.9626619999999999,XRP,5.17308,Cardano,2.30646,Solana,2.23744,7,3,2025-04-28 02:32:14
